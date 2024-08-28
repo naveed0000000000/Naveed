@@ -1,0 +1,17 @@
+li:nth-child(2n+1){Color:green;
+font-weight: bolder;font-size: larger;}
+
+p::first-letter{font-size: larger;
+font-weight: 700;}
+
+div p::first-line{color: red;}
+.vpn:focus{background-color: yellow;}
+
+a:active{color: blue;}
+a:visited:{color: red;}
+a:hover{color: greenyellow;}
+
+div p{text-indent: 200px;
+text-shadow: 5px, 2px, 0.5, red;}
+
+div p{text-shadow: 5px 2px 1px blueviolet;}
